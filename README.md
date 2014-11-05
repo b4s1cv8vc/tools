@@ -9,7 +9,7 @@ A tool that can convert file.libsvm to file.arff. Attention, this tool can't sup
 
 Example (in Windows):
 
-**LibsvmToARFF.py filename.libsvm configname.txt filename.arff **
+####LibsvmToARFF.py filename.libsvm configname.txt filename.arff 
 
 The filename.libsvm and configname.txt are files you should prepare in advance, filename.arff is the result file of executing the last command line.
 Here is an example of the configname.txt: 
