@@ -3,7 +3,7 @@
 
 some tools I wrote for better life
 
-#*@LibsvmToARFF.py*
+###*@LibsvmToARFF.py*
 
 A tool that can convert file.libsvm to file.arff. Attention, this tool can't support sparse libsvm file format or sparse arff format.
 
@@ -40,3 +40,9 @@ feature10
 
 The "BANK" is the relation of the arff data, and the rest of lines are the attributes of the arff data.
 
+
+
+
+###*@pcfg.py*
+
+A tool that can compute each pattern in PCFG Algorithm(used in NLP/Machine Translation) and its probability.
